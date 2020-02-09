@@ -1,7 +1,7 @@
 import cv2
 from playsound import playsound
 import os
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "Vision Project-9d1350f85714.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "Credentials_File.json"
 from google.cloud import texttospeech
 from google.cloud import vision
 client = vision.ImageAnnotatorClient()
