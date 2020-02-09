@@ -11,7 +11,7 @@ Challenges we ran into -Linking up credentials file with the code.
 
 Accomplishments that we're proud of -We are proud of our project because we are going to help a lot of people in the world with our project.
 
-What we learned -We learned a lot about Google Cloud APIs. Also it was a good opportunity to realize that there can be so many cool things to do with these APIs.
+What we learned -We learned a lot about Google Cloud APIs. Also it was a good opportunity to realize that there can be so many cool things that can be done with these APIs.
 
 What's next for The-Vision -We are expecting to attach the live camera to the gloves and have a headphone to listen to the discriptions(output). Also we are planning on creating a crome extension that help blind people listen to the websites including pictures, videos, etc. We are going to try to make this product as cheaper as possible so that most people can make use of it.
 
