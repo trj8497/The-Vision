@@ -16,3 +16,5 @@ What we learned -We learned a lot about Google Cloud APIs and Arduino. Also it w
 What's next for The-Vision -I am going to try to sensor technology to this project to know how far away the object is. Also, we are planning on creating a chrome extension that helps blind people listen to the websites including pictures, videos, etc. We are going to try to make this product as cheaper as possible so that most people can make use of it.
 
 Built With -Python, Google Cloud APIs (Text to speech, Image detector), Arduino, ArduCam.
+
+To run it-First run the python code, then start the ArduCam and capture the live video. 
